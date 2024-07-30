@@ -1,0 +1,2 @@
+# manager
+Zync 7020 SDK GPIO EMIO CODES
